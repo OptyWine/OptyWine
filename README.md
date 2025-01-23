@@ -41,7 +41,7 @@ I specialize in creating high-quality Discord bots, managing servers, and develo
 
 ---
 
-![Snake Animation](https://github.com/optywine/optywine/blob/output/github-contribution-grid-snake-dark.svg)  
+![Snake Animation](https://github.com/OptyWine/OptyWine/blob/main/.github/github-user-contribution.svg)  
 
 [![Join My Discord](https://badgen.net/discord/members/modstar)](https://discord.gg/modstar)  
 <img src="https://komarev.com/ghpvc/?username=optywine&color=brightgreen" alt="Profile Views" />
