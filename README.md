@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=FFBB48&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+OptyWine;a+Full-Stack+Developer;I+love+building+and+designing+cool+projects;Passionate+about+coding+and+community+management;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></h1>
 
-<!--
-**OptyWine/OptyWine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **optywine**, a passionate programmer with 5 years of experience in software development and community building.  
 
-Here are some ideas to get you started:
+I specialize in creating high-quality Discord bots, managing servers, and developing scalable web applications. Over the years, I’ve honed my skills in languages and frameworks like **Node.js**, **Python**, **PHP**, **Unity**, and **WordPress**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+### Bots
+- Developing feature-rich Discord bots with custom commands, API integrations, and moderation tools.  
+- Check out my community server: [discord.gg/modstar](https://discord.gg/modstar)  
+
+### Servers
+- Building and managing vibrant online communities.  
+- Experienced in server architecture and moderation for large-scale platforms.
+
+### Web Development
+- Creating responsive websites and applications using WordPress, PHP, and modern JavaScript frameworks.
+
+---
+
+## 🛠️ Skills and Tools  
+
+![My Skills](https://skillicons.dev/icons?i=js,python,php,html,css,nodejs,unity,wordpress,vscode,github,git,discord)  
+
+---
+
+## GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OptyWine&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
+
+---
+
+## 📫 Contact  
+
+- **Discord**: `hagparast#9722`  
+- **Server**: [discord.gg/modstar](https://discord.gg/modstar)  
+
+---
+
+![Snake Animation](https://github.com/optywine/optywine/blob/output/github-contribution-grid-snake-dark.svg)  
+
+[![Join My Discord](https://badgen.net/discord/members/modstar)](https://discord.gg/modstar)  
+<img src="https://komarev.com/ghpvc/?username=optywine&color=brightgreen" alt="Profile Views" />
