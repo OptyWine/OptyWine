@@ -29,8 +29,8 @@ I specialize in creating high-quality Discord bots, managing servers, and develo
 
 ## GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OptyWine&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OptyWine)
+![GitHub Streak](https://streak-stats.demolab.com?user=OptyWine)](https://git.io/streak-stats)
 ---
 
 ## 📫 Contact  
