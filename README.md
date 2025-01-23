@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=FFBB48&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+OptyWine;a+Full-Stack+Developer;I+love+building+and+designing+cool+projects;Passionate+about+coding+and+community+management;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=FFBB48&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+OptyWine;a+Full-Stack+Developer;I+love+Building+And+Designing+Cool+Projects;Passionate+About+Coding+And+Community+Management;Welcome+To+My+GitHub+Profile!" alt="Typing SVG" /></h1>
 
 I'm **optywine**, a passionate programmer with 5 years of experience in software development and community building.  
 
@@ -36,7 +36,8 @@ I specialize in creating high-quality Discord bots, managing servers, and develo
 ## 📫 Contact  
 
 - **Discord**: `hagparast#9722`  
-- **Server**: [discord.gg/modstar](https://discord.gg/modstar)  
+- **Server**: [discord.gg/modstar](https://discord.gg/modstar)
+- **Guns.lol**: [guns.lol/opty](https://guns.lol/opty)
 
 ---
 
