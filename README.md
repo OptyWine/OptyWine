@@ -35,7 +35,7 @@ I specialize in creating high-quality Discord bots, managing servers, and develo
 
 ## Contact 📬 
 
-- **Discord**: `hagparast#9722`  
+- **Discord**: `polismakhfi#9722`  
 - **Server**: [discord.gg/modstar](https://discord.gg/modstar)
 - **Guns.lol**: [guns.lol/opty](https://guns.lol/opty)
 
