@@ -23,7 +23,7 @@ I specialize in creating high-quality Discord bots, managing servers, and develo
 
 ## Skills and Tools 🛠️
 
-![My Skills](https://skillicons.dev/icons?i=js,python,php,html,css,nodejs,unity,wordpress,vscode,github,git,discord)  
+![My Skills](https://skillicons.dev/icons?i=js,python,php,html,css,nodejs,unity,wordpress,vscode,github,git,ts,discord)  
 
 ---
 
@@ -35,7 +35,7 @@ I specialize in creating high-quality Discord bots, managing servers, and develo
 
 ## Contact 📬 
 
-- **Discord**: `polismakhfi#9722`  
+- **Discord**: `lafzeghalam#9722`  
 - **Server**: [discord.gg/modstar](https://discord.gg/modstar)
 - **Guns.lol**: [guns.lol/opty](https://guns.lol/opty)
 
