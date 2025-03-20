@@ -10,7 +10,8 @@ I specialize in creating high-quality Discord bots, managing servers, and develo
 
 ### Bots 🤖
 - Developing feature-rich Discord bots with custom commands, API integrations, and moderation tools.  
-- Check out my community server: [discord.gg/modstar](https://discord.gg/modstar)  
+- Check out my community server: [discord.gg/modstar](https://discord.gg/modstar)
+- Check out my family server : [discord.gg/p680](https://discord.gg/p680)
 
 ### Servers 🌐
 - Building and managing vibrant online communities.  
@@ -35,8 +36,8 @@ I specialize in creating high-quality Discord bots, managing servers, and develo
 
 ## Contact 📬 
 
-- **Discord**: `lafzeghalam#9722`  
-- **Server**: [discord.gg/modstar](https://discord.gg/modstar)
+- **Discord**: `tahdidamiz#9722`  
+- **Server**: [discord.gg/modstar](https://discord.gg/p680)
 - **Guns.lol**: [guns.lol/opty](https://guns.lol/opty)
 
 ---
